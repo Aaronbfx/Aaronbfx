@@ -1,7 +1,7 @@
 ## Hi there
 
-I have knowlege of C++ and Java programing/n
-Fun Fact: I have a black cat
+- I have knowlege of C++ and Java programing
+- Fun Fact: I have a black cat
 
 <!--
 **Aaronbfx/Aaronbfx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
